@@ -1,0 +1,9 @@
+# Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Backup files created by the patchers on --apply
+*.orig
+
+# OS junk
+.DS_Store
